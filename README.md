@@ -1,6 +1,6 @@
-# flutter_application_7
+# Inherited Timer
 
-A new Flutter project.
+Timer Inherited
 
 ## Getting Started
 
